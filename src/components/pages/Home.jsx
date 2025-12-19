@@ -6,7 +6,7 @@ import { Depoimentos } from '../sections/Depoimentos'
 import { Faq } from '../sections/FAQ'
 import {Selos} from '../sections/Selos'
 import { Form } from '../sections/Formulario'
-import { Footer } from '../sections/footer'
+import { Footer } from '../sections/Footer'
 
 const Home = () => {
     return (
