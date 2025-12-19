@@ -13,5 +13,3 @@ Projeto desenvolvido para processo seletivo FlyVet
 * **[Tailwind CSS v4](https://tailwindcss.com/)**: Framework de estilização utility-first (configurado com a nova sintaxe `@theme`).
 * **React Router**: Gerenciamento de rotas e navegação.
 * **Google Fonts**: Tipografia *Poppins*.
-
-## 🎨 Funcionalidades e Seções
