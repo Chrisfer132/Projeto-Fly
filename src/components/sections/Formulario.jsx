@@ -1,4 +1,4 @@
-import Formimage from '../../assets/images/form.svg';
+import Formimage from '../../assets/images/Form.svg';
 import Flechalaranja from '../../assets/icons/flecha-laranja.svg';
 
 const WHATSAPP_NUMBER = '5555997253484';
