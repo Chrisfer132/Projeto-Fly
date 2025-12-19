@@ -1,0 +1,26 @@
+@import "tailwindcss";
+
+@theme {
+  --color-orange: #F46E0D;
+  --color-blue: #1E2139;
+  --color-green: #3F9B5D;
+  --color-gray: #363639;
+  --color-light-blue: #20243F;
+}
+
+
+@keyframes marquee {
+  0% { transform: translateX(0); }
+  100% { transform: translateX(-50%); }
+}
+
+.animate-marquee-infinite {
+  display: flex;
+  width: max-content;
+  animation: marquee 30s linear infinite;
+}
+
+/* Pausa ao passar o mouse (opcional) */
+.animate-marquee-infinite:hover {
+  animation-play-state: paused;
+}
