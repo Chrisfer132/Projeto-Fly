@@ -4,7 +4,7 @@ import ProdutoImg from '../../assets/images/notebook-produto.svg';
 import TecnicosImg from '../../assets/images/tecnicos-repair.png';
 import RelogioIcon from '../../assets/icons/relogio.svg';
 import Flechalaranja from '../../assets/icons/flecha-laranja.svg';
-import { Footer } from "../sections/footer";
+import { Footer } from "../sections/Footer";
 
 const BENEFITS_DATA = [
     {
